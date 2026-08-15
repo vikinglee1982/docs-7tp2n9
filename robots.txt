@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-hw2unp.radarsatu88.shop/sitemap.xml
